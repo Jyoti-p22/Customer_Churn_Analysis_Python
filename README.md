@@ -81,4 +81,8 @@ Once you detect high risk customers, apply
 
 ## Conclusion
 
-In this project, I have tried to divide customer churn prediction problem into steps like exploration, profiling, clustering, model selection & evaluation and retention plans. Based on this analysis, we can help retention team to analyze high risk churn customers before they leave the company.
+In this project I Performed Exploratory Data Analysis on IBM Telco dataset to analyze customer churn patterns.
+- In terms of gender distribution, 49.53% of our customers are female, while 50.47% are male.
+- 26.5% of customers are in churn and have stopped using the company's services
+- Developed an insightful Power BI dashboard visualizing key findings, enabling data-driven decision-making and
+improving customer retention strategies.
